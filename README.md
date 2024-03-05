@@ -7,6 +7,7 @@
 - 🔭 Dev Front-End formado pela [FIAP](https://www.linkedin.com/school/fiap/).
 - 🔖 Formado em de Análise e Desenvolvimento de Sistemas.
 - 🌱 Atualmente me aperfeiçoando em processos de Back-end.
+- 🅱 Hoje, uso o Bitbucket mais tempo, então, meus commits estão tristes
  
 - 📫  **Meus links:**  ⤵️
 
