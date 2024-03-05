@@ -7,7 +7,7 @@
 - 🔭 Dev Front-End formado pela [FIAP](https://www.linkedin.com/school/fiap/).
 - 🔖 Formado em de Análise e Desenvolvimento de Sistemas.
 - 🌱 Atualmente me aperfeiçoando em processos de Back-end.
-- 🅱 Hoje, uso o Bitbucket mais tempo, então, meus commits estão tristes
+- 🅱 Hoje, uso o Bitbucket fulltime, então, meus commits estão tristes
  
 
 
@@ -36,5 +36,12 @@
   <img src="https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-yarn-2C8EBB?logo=yarn&logoColor=white&style=for-the-badge" />
 </div>
- 
+
+ <div align="center">
+  <h2> 👩‍💻 Posts e Commits </h2>
+  
+  <a href="https://github.com/JoaoLeiteF">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoLeiteF&count_private=true&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLeiteF&count_private=true&layout=compact&langs_count=7&theme=dark"/>
+</div>
  ##
