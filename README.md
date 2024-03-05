@@ -8,9 +8,11 @@
 - 🔖 Formado em de Análise e Desenvolvimento de Sistemas.
 - 🌱 Atualmente me aperfeiçoando em processos de Back-end.
 - 🅱 Hoje, uso o Bitbucket mais tempo, então, meus commits estão tristes
+ 
 
-<div style="display:flex;justify-content:center"> 
- - 📫  **Meus links:**  ⤵️
+
+<div style="display:flex; justify-content:center"> 
+  <p>- 📫  <strong> Meus links: </strong>  ⤵️</p> 
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-ba729a201/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
